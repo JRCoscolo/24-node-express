@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "24-node-express",
+  "version": "1.0.0",
+  "description": "Primer express de pruebas",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Ramon",
+  "license": "ISC"
+}
